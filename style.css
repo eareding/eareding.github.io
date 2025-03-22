@@ -1,0 +1,46 @@
+body {
+  background-color: #e4e6e4;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: auto;
+  margin-bottom: 20px;
+}
+h1 {
+  background-color: rgb(202, 206, 202);
+  color: #154926;
+  text-align: center;
+}
+h2 {
+  background-color: rgb(202, 206, 202);
+  text-align: center;
+  word-spacing: 2em;
+}
+a:link {
+  color: rgb(30, 56, 43);
+  text-decoration: none;
+}
+a:visited {
+  color: rgb(30, 36, 43);
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(30, 56, 43);
+  text-decoration: underline;
+}
+a:active {
+  color: rgb(30, 56, 43);
+  text-decoration: underline;
+}
+h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h4 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#borderimg {
+  border: 10px;
+  padding: 15px;
+}
